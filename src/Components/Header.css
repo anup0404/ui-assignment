@@ -1,0 +1,21 @@
+.header_container{
+    background-color:rgb(20, 20, 107) ;
+    color: white;
+    display: flex;
+    width: 100vw;
+}
+.header_container_left{
+    display: flex;
+    flex: 0.3;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.header_container_right{
+    display: flex;
+    flex: 0.7;
+    justify-content: space-around;
+    align-items: center;
+    
+}
